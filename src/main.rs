@@ -45,8 +45,29 @@ fn main() {
         }
     }
 
-    println!("And the result is:\n{}", closerip);
+    println!("And the result is:\n{}", &closerip);
 
+    let result = portproxy(&closerip).expect("error implementing portproxy");
 
+    let ppres = String::from_utf8_lossy(&result.stdout);
+
+    println!("{}",ppres);
+
+    let sshout = Command::new("wsl").args(&["sudo","/etc/init.d/ssh","start"]).output().expect("Error starting SSH on WSL");
+
+    println!("{}",String::from_utf8_lossy(&sshout.stdout));
+}
+
+fn portproxy(a: &str) -> Result< std::process::Output, std::io::Error > {
+    // let commstring1 = "netsh interface portproxy
+                    //   add v4tov4 listenport=2396 connectaddress=";
+    // let commstring2 = " connectport= 2396 listenaddress=0.0.0.0";
+
+    // let commstring = format!("{}{}{}",commstring1,a,commstring2);
+
+    Command::new("netsh")
+            .args(&["interface","portproxy","add","v4tov4","listenport=3999",
+                    "connectaddress=",a,"connectport=2396","listenaddress=0.0.0.0"])
+            .output()
 }
 
