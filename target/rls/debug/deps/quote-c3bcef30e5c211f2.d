@@ -1,0 +1,13 @@
+d:\rustL\home-from-work\target\rls\debug\deps\quote-c3bcef30e5c211f2.rmeta: C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\lib.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ext.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\format.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ident_fragment.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\to_tokens.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\runtime.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\spanned.rs
+
+d:\rustL\home-from-work\target\rls\debug\deps\libquote-c3bcef30e5c211f2.rlib: C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\lib.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ext.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\format.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ident_fragment.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\to_tokens.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\runtime.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\spanned.rs
+
+d:\rustL\home-from-work\target\rls\debug\deps\quote-c3bcef30e5c211f2.d: C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\lib.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ext.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\format.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ident_fragment.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\to_tokens.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\runtime.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\spanned.rs
+
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\lib.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ext.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\format.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ident_fragment.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\to_tokens.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\runtime.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\spanned.rs:

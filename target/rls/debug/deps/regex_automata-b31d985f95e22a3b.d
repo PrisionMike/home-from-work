@@ -1,0 +1,11 @@
+d:\rustL\home-from-work\target\rls\debug\deps\regex_automata-b31d985f95e22a3b.rmeta: C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\lib.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\classes.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\dense.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\dfa.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\regex.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\sparse.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\state_id.rs
+
+d:\rustL\home-from-work\target\rls\debug\deps\regex_automata-b31d985f95e22a3b.d: C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\lib.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\classes.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\dense.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\dfa.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\regex.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\sparse.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\state_id.rs
+
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\lib.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\classes.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\dense.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\dfa.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\regex.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\sparse.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\state_id.rs:

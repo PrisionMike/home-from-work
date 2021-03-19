@@ -1,0 +1,11 @@
+d:\rustL\home-from-work\target\rls\debug\deps\syntex_errors-5ed79b001358f12b.rmeta: C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\lib.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\emitter.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\snippet.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\registry.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\styled_buffer.rs
+
+d:\rustL\home-from-work\target\rls\debug\deps\libsyntex_errors-5ed79b001358f12b.rlib: C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\lib.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\emitter.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\snippet.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\registry.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\styled_buffer.rs
+
+d:\rustL\home-from-work\target\rls\debug\deps\syntex_errors-5ed79b001358f12b.d: C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\lib.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\emitter.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\snippet.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\registry.rs C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\styled_buffer.rs
+
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\lib.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\emitter.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\snippet.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\registry.rs:
+C:\Users\sush2\.cargo\registry\src\github.com-1ecc6299db9ec823\syntex_errors-0.42.0\src\styled_buffer.rs:
